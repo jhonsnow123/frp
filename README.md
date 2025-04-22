@@ -38,7 +38,6 @@ frp also offers a P2P connect mode.
 
 ## Table of Contents
 
-<!-- vim-markdown-toc GFM -->
 
 * [Development Status](#development-status)
     * [About V2](#about-v2)
